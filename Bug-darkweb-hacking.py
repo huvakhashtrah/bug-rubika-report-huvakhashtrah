@@ -1,0 +1,13 @@
+print("user.hack.hacker.darkweb.in")
+print("https://noobhacktube.com")
+prinht("http://54flq67kqr5wvjqf.onion/python")
+print("https://darkweb-sites.org/?s=https%3A%2F%2Frubika.ir%2FNARMER")
+print("https://darkweb-sites.org/?s=html")
+print("https://darkweb-sites.org/?s=%D9%85%D8%AA%D8%B5%D9%84+%D8%A8%D9%87+%D8%AF%D8%A7%D8%B1%DA%A9+%D9%88%D8%A8")
+print("https://darkweb-sites.org/fil-ter.user")
+print("http://9.3.2.1.5-10//y//h//d//g-//1.2.3.4.5.4.3.4.4.9.6.3.3.4.2.4.1.2.2.0/y_28-3-9.t-111ir.s/5.3.5.30=yfttk08.darkweb.onlain")
+print("yftt15k.yftt15k")
+print("server.yftt15k.darkweb-hacking.user")
+print("fil.fil.fil.filter.filyering.user")
+print("yftt15k-yftt15k-yftt15k-yftt15k-audio.video.photo.tag.GIF.text.filtering.Rubika")
+
